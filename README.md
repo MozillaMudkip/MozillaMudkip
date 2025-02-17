@@ -1,6 +1,6 @@
  Hi, my name is Ben Damai (@MozillaMudkip). Im currently a senior at The University of Wisconsin-Madison and
 I am double majoring in Computer Engineering and Computer Science. Im looking for a career in either Computer
-- Hardware or Software at the moment.
+Hardware or Software at the moment.
   
 I feel comfortable working in C, SystemVerilog and Java and im currently learning Python, Javascript, HTML and React.
   
